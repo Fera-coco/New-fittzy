@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.big {
+
+  /* width: 10em;
+  height: 10em;
+  border-radius: 50%;
+  background-color: orange;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -5em;
+  margin-top: -5em; */
+}
